@@ -1,0 +1,64 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Apple tart",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG07PMQxu5nkjH-ls21CfzJBGmPZMATlBQvg&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Apple pie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdrVYFN4Sl2fp9hsVHV0IFnTKS7Iq763MnRw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "image": "https://cdn.sanity.io/images/w6ol9cun/production/0fbc5d588c01b4ca1b712061daf2d802154c7ca5-2000x1080.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sushi",
+      "image": "https://www.health.com/thmb/bY_DupZOU6nB9n-AREKZmvjvIKM=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/Is-Sushi-Healthy-AdobeStock_255917111-2000-0e643c96f492401681efc23ccaab332d.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lazania",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzEzgeRlEMiyZ2OKU6IZhHMdHIYM8_GGicXw&usqp=CAU"
+    },
+    {
+      "name": "asasasas",
+      "image": "asasasas",
+      "id": 6
+    },
+    {
+      "name": "asasas",
+      "image": "asasas",
+      "id": 7
+    },
+    {
+      "name": "Beef Wellington",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPHU3XLdwiVWQI6-Zzhwueyqy26l-nCnfQ&usqp=CAU",
+      "id": 8
+    },
+    {
+      "name": "sasasas",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPHU3XLdwiVWQI6-Zzhwueyqy26l-nCnfQ&usqp=CAU",
+      "id": 9
+    },
+    {
+      "name": "asasas",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPHU3XLdwiVWQI6-Zzhwueyqy26l-nCnfQ&usqp=CAU",
+      "id": 10
+    },
+    {
+      "name": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPHU3XLdwiVWQI6-Zzhwueyqy26l-nCnfQ&usqp=CAU",
+      "id": 11
+    },
+    {
+      "name": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQPHU3XLdwiVWQI6-Zzhwueyqy26l-nCnfQ&usqp=CAU",
+      "id": 12
+    }
+  ]
+}

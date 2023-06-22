@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 10px 10px 10px;
+    position: relative;
+}
+
+.header>span {
+    font-size: 14px;
+    background-color: #ea669d;
+    border-radius: 1px;
+    width: 16px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 29px;
+    right: 25px;
+}
